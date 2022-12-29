@@ -1,4 +1,4 @@
-###To set up Tailwind CSS run this commands.
+## To set up Tailwind CSS run this commands.
 1. npm init can be used to set up a new or existing npm package. 
 ```
 npm init-y
