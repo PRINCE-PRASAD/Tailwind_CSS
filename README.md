@@ -15,7 +15,7 @@ npx tailwindcss init -p
 ```
 npm i vite
 ```
-5. Create a css file "input.css" add(link) it your html file.
+5. Create a css file "input.css" and index.html and add css(link) to your html file.
 
 6. Add this line of code to input.css.
 ```
