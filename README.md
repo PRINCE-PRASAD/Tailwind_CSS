@@ -1,15 +1,15 @@
-###To set up Tailwind CSS run this commands.
+## To set up Tailwind CSS run this commands.
 1. npm init can be used to set up a new or existing npm package. 
 ```
-npm init-y
+npm init -y
 ```
 2. Installing Tailwind CSS as a PostCSS plugin
 ```
 npm install -D tailwindcss postcss autoprefixer
 ```
-3. Generate a Tailwind config file for your project using the Tailwind CLI utility included
+3. Generate a Tailwind config file and postcss.config.js for your project using the Tailwind CLI utility included
 ```
-npx tailwindcss init
+npx tailwindcss init -p
 ```
 4. Vite. js allows developers to set up a development environment for frameworks like Vue, TezJS and React and even for Vanilla JavaScript app with a dev server.
 ```
